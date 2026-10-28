@@ -1,0 +1,4 @@
+torch>=2.0
+numpy>=1.24
+# optional: BERT text-location encoder (data/text.py backend="bert")
+transformers>=4.30
