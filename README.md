@@ -36,6 +36,8 @@ Existing methods exploit spatio-temporal signals too simplistically: they either
 
 ## 📊 Datasets
 
+📥 Dataset download: [Google Drive](https://drive.google.com/drive/folders/1hKbNKnV2eWZK6CaH8FFQEoHLxq77Xlde?usp=sharing)
+
 Six benchmarks, of which two `-Ext` are **extrapolation** settings (strictly split by time) and the rest are **interpolation** settings (random 80/10/10 split). code: stkgc
 
 ### File Format
