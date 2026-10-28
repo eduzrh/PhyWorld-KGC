@@ -1,27 +1,16 @@
 <h1 align="center">✨ PhyWorld-KGC ✨</h1>
 
-<h3 align="center">PhyWorld-KGC: A Logical Rule-Guided World Knowledge Model for Spatio-Temporal Knowledge Graph Completion</h3>
+<h3 align="center">PhyWorld-KGC: A Logic-Rule-Guided World Knowledge Model for Spatio-Temporal Knowledge Graph Completion</h3>
 
 <p align="center">
+  <a href="https://github.com/your-username/PhyWorld-KGC"><img src="https://img.shields.io/badge/GitHub-PhyWorld--KGC-black" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/version-1.1.1-blue" alt="Version">
   <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C" alt="PyTorch">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
 
-<p align="center">
-  <a href="#-introduction">Introduction</a> •
-  <a href="#-key-features">Key Features</a> •
-  <a href="#️-framework">Framework</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="#-datasets">Datasets</a> •
-  <a href="#-quick-start">Quick Start</a> •
-  <a href="#️-usage">Usage</a> •
-  <a href="#-reproduction-status">Reproduction Status</a> •
-  <a href="#-citation">Citation</a>
-</p>
-
-> 中文 README: [`README_zh.md`](README_zh.md)
+> [`中文`](README_zh.md)
 
 
 ## 🌟 Introduction
@@ -40,7 +29,7 @@ Existing methods exploit spatio-temporal signals too simplistically: they either
 
 ## 📊 Datasets
 
-Six benchmarks, of which two `-Ext` are **extrapolation** settings (strictly split by time) and the rest are **interpolation** settings (random 80/10/10 split).
+Six benchmarks, of which two `-Ext` are **extrapolation** settings (strictly split by time) and the rest are **interpolation** settings (random 80/10/10 split). code: stkgc
 
 ### File Format
 
