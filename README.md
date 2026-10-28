@@ -2,6 +2,10 @@
 
 <h3 align="center">PhyWorld-KGC: A Logic-Rule-Guided World Knowledge Model for Spatio-Temporal Knowledge Graph Completion</h3>
 
+<div align="center">
+[English](README.md) | [简体中文](./README_zh_CN.md)
+</div>
+
 <p align="center">
   <a href="https://github.com/your-username/PhyWorld-KGC"><img src="https://img.shields.io/badge/GitHub-PhyWorld--KGC-black" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/version-1.1.1-blue" alt="Version">
@@ -10,7 +14,6 @@
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
 
-> [`中文`](README_zh.md)
 
 
 ## 🌟 Introduction
