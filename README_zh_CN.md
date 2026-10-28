@@ -41,6 +41,8 @@
 
 ## 📊 数据集
 
+📥 数据集下载：[Google Drive](https://drive.google.com/drive/folders/1hKbNKnV2eWZK6CaH8FFQEoHLxq77Xlde?usp=sharing)
+
 六个基准，其中两个 `-Ext` 为**外推**设定（严格按时间切分），其余为**内插**
 设定（随机 80/10/10 切分）。密码：stkgc
 
