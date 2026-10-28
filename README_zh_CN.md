@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
 
-> English README: [`README.md`](README.md)
 
 
 ## 🌟 简介
