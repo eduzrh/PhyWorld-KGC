@@ -2,8 +2,12 @@
 
 <h3 align="center">PhyWorld-KGC: A Logic-Rule-Guided World Knowledge Model for Spatio-Temporal Knowledge Graph Completion</h3>
 
+</div>
+
 <div align="center">
+  
 [English](README.md) | [简体中文](./README_zh_CN.md)
+
 </div>
 
 <p align="center">
